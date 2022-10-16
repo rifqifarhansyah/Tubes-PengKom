@@ -1,0 +1,23 @@
+Di bawah ini adalah daftar tanggal dan waktu penayangan film.
+Senin 06/12/21, 1pm, Milea, 40, 60
+Senin 06/12/21, 3pm, Nanti Kita Cerita tentang Hari Ini, 32, 68
+Selasa 07/12/21, 2pm, Akhir Kisah Cinta Si Doel, 71, 29
+Selasa 07/12/21, 5pm, Sebelum Iblis Menjemput Ayat 2, 30, 70
+Selasa 07/12/21, 6pm, Toko Barang Mantan, 0, 100
+Selasa 07/12/21, 10pm, Mangkujiwo, 52, 48
+Rabu 08/12/21, 6pm, #TemanTapiMenikah2, 60, 40
+Rabu 08/12/21, 10pm, Meditation, 21, 79
+Kamis 09/12/21, 3pm, Mariposa, 94, 6
+Kamis 09/12/21, 9pm, Aku Tahu Kapan Kamu Mati, 62, 38
+Jumat 10/12/21, 1pm, Rasuk 2, 48, 52
+Jumat 10/12/21, 2pm, Temen Kondangan, 3, 97
+Jumat 10/12/21, 4pm, Asih 2, 60, 40
+Jumat 10/12/21, 6pm, Dignitate, 100, 0
+Jumat 10/12/21, 9pm, Mariposa, 1, 99
+Sabtu 11/12/21, 1pm, Toko Barang Mantan, 81, 19
+Sabtu 11/12/21, 7pm, Janin, 91, 9
+Sabtu 11/12/21, 8pm, Titus: Mystery of the Enygma, 90, 10
+Sabtu 11/12/21, 10pm, Mangga Muda, 91, 9
+Minggu 12/12/21, 4pm, Abracadabra, 72, 28
+Minggu 12/12/21, 9pm, Akhir Kisah Cinta Si Doel, 2, 98
+Minggu 12/12/21, 10pm, Anak Garuda, 91, 9
